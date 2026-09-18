@@ -1,0 +1,6 @@
+{
+  "name": "GKK Foods",
+  "description": "Modern cloud kitchen delivering wholesome, hygienic ghar ka khana to urban students and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
